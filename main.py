@@ -1,6 +1,5 @@
 #SET THE COORDINATES ACCORDING TO YOUR SCREEN
 
-from re import I
 import pandas as pd 
 import pyautogui as pg
 import time
